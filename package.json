@@ -1,6 +1,6 @@
 {
   "name": "thefarce",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "homepage": "https://thefarce.github.io/thefarce.github.io",
   "dependencies": {
@@ -12,8 +12,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "clean": "rimraf docs",
-    "deploy": "npm --prefix ./cra build"
+    "clean": "rimraf asset-manifest.json favicon.ico index.html logo192.png logo512.png manifest.json precache-manifest.a69d926ea3b68e9778af7ce131f88666.js precache-manifest.c9c6a3095e92bd4d450bac86a01e8ec7.js robots.txt service-worker.js static",
+    "deploy": "npm run clean && npm run --prefix ./cra build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,7 +31,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
     "rimraf": "^3.0.2"
   }
 }
