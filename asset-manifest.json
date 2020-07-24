@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thefarce.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/thefarce.github.io/static/js/main.41f217a6.chunk.js",
+    "main.js.map": "/thefarce.github.io/static/js/main.41f217a6.chunk.js.map",
+    "runtime-main.js": "/thefarce.github.io/static/js/runtime-main.917c6b13.js",
+    "runtime-main.js.map": "/thefarce.github.io/static/js/runtime-main.917c6b13.js.map",
+    "static/js/2.2b970fb1.chunk.js": "/thefarce.github.io/static/js/2.2b970fb1.chunk.js",
+    "static/js/2.2b970fb1.chunk.js.map": "/thefarce.github.io/static/js/2.2b970fb1.chunk.js.map",
+    "index.html": "/thefarce.github.io/index.html",
+    "precache-manifest.a69d926ea3b68e9778af7ce131f88666.js": "/thefarce.github.io/precache-manifest.a69d926ea3b68e9778af7ce131f88666.js",
+    "service-worker.js": "/thefarce.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/thefarce.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2b970fb1.chunk.js.LICENSE.txt": "/thefarce.github.io/static/js/2.2b970fb1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/thefarce.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.917c6b13.js",
+    "static/js/2.2b970fb1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.41f217a6.chunk.js"
+  ]
+}
